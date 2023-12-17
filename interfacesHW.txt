@@ -1,0 +1,9 @@
+Define an interface named Playable that includes a method called play(). Create a class called Guitar that implements the Playable interface and defines the play() method to print "strumming the guitar".
+
+Define an interface named Drawable that includes a method called draw(). Create a class called Rectangle that implements the Drawable interface and defines the draw() method to print "drawing a rectangle".
+
+Define an interface named Movable that includes methods called moveUp(), moveDown(), moveLeft(), and moveRight(). Create a class called Ball that implements the Movable interface and defines the methods to print the direction of movement (e.g., "moving up").
+
+Define an interface named Resizable that includes a method called resize(). Create a class called Circle that implements the Resizable interface and defines the resize() method to increase the size of the circle.
+
+Define an interface named Comparable that includes a method called compareTo(). Create a class called Person that implements the Comparable interface and defines the compareTo() method to compare two people based on their age.
